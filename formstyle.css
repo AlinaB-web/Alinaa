@@ -1,0 +1,32 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+div{
+    background-color: white;
+    padding:30px;
+    margin:10px;
+    
+
+}
+
+select{
+    width: 250px;
+}
+textarea{
+    width: 300px;
+    height:100px ;
+}
+
+button{
+    background-color: lightgreen;
+    width: 300px;
+}
+input[type="text"]{
+    width:250px ;
+}
+
+
